@@ -1,14 +1,14 @@
 Employee,Date,Purpose,Amount
-Joe,"Apr 1, 2023",Lunch,$15.50
-Joe,"Apr 1, 2023",Dinner,$24.00
-Sue,"Apr 1, 2023",Lunch,$12.75
-Sue,"Apr 2, 2023",Lunch,$12.75
-Jen,"Apr 2, 2023",Lunch,$13.80
-Pat,"Apr 3, 2023",Lunch,$15.90
-Pat,"Apr 3, 2023",Dinner,$22.50
-Joe,"Apr 3, 2023",Lunch,$15.50
-Sue,"Apr 3, 2023",Lunch,$13.50
-Pat,"Apr 4, 2023",Dinner,$18.80
-Sue,"Apr 5, 2023",Lunch,$13.50
-Jen,"Apr 5, 2023",Lunch,$18.80
-Jen,"Apr 5, 2023",Dinner,$18.80
+Joe,"Apr 1, 2023",Lunch,15.50
+Joe,"Apr 1, 2023",Dinner,24.00
+Sue,"Apr 1, 2023",Lunch,12.75
+Sue,"Apr 2, 2023",Lunch,12.75
+Jen,"Apr 2, 2023",Lunch,13.80
+Pat,"Apr 3, 2023",Lunch,15.90
+Pat,"Apr 3, 2023",Dinner,22.50
+Joe,"Apr 3, 2023",Lunch,15.50
+Sue,"Apr 3, 2023",Lunch,13.50
+Pat,"Apr 4, 2023",Dinner,18.80
+Sue,"Apr 5, 2023",Lunch,13.50
+Jen,"Apr 5, 2023",Lunch,18.80
+Jen,"Apr 5, 2023",Dinner,18.80
